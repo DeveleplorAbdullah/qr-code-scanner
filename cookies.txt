@@ -1,0 +1,24 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+4qrcode.com	TRUE	/	FALSE	1999999999	qrSession	ec4hl07fsde06031dqfga11qjl
+4qrcode.com	TRUE	/	FALSE	1999999999	SameSite	strict
+hi.wikipedia.org	TRUE	/	FALSE	1999999999	WMF-Last-Access	22-Jul-2022
+.wikipedia.org	TRUE	/	FALSE	1999999999	GeoIP	AZ:BA:Baku:40.39:49.88:v4
+hi.m.wikipedia.org	TRUE	/	FALSE	1999999999	WMF-Last-Access	22-Jul-2022
+commons.wikimedia.org	TRUE	/	FALSE	1999999999	WMF-Last-Access	22-Jul-2022
+.wikimedia.org	TRUE	/	FALSE	1999999999	GeoIP	AZ:BA:Baku:40.39:49.88:v4
+hi.wikipedia.org	TRUE	/	FALSE	1999999999	ss0-hiwikiSession	1a74gu30599h8g7t8ca7629itbutou8f
+hi.wikipedia.org	TRUE	/	FALSE	1999999999	hiwikiSession	1a74gu30599h8g7t8ca7629itbutou8f
+hi.wikipedia.org	TRUE	/	FALSE	1999999999	SameSite	None
+hi.wikipedia.org	TRUE	/	FALSE	1999999999	cpPosIndex	1%401658515893%2365026d6a51a1ebcd927123d9fa2536c7
+hi.m.wikipedia.org	TRUE	/	FALSE	1999999999	ss0-hiwikiSession	1cgm95o12qfrhvruteniq21k7v5hnm4r
+hi.m.wikipedia.org	TRUE	/	FALSE	1999999999	hiwikiSession	1cgm95o12qfrhvruteniq21k7v5hnm4r
+hi.m.wikipedia.org	TRUE	/	FALSE	1999999999	SameSite	None
+commons.m.wikimedia.org	TRUE	/	FALSE	1999999999	WMF-Last-Access	22-Jul-2022
+commons.wikimedia.org	TRUE	/	FALSE	1999999999	ss0-commonswikiSession	32rs2ujhulqpphp4o1bb64vlnnsh6v76
+commons.wikimedia.org	TRUE	/	FALSE	1999999999	commonswikiSession	32rs2ujhulqpphp4o1bb64vlnnsh6v76
+commons.wikimedia.org	TRUE	/	FALSE	1999999999	SameSite	None
+commons.wikimedia.org	TRUE	/	FALSE	1999999999	cpPosIndex	1%401658516027%2365026d6a51a1ebcd927123d9fa2536c7
+.wikipedia.org	TRUE	/	FALSE	1999999999	WMF-Last-Access-Global	22-Jul-2022
+upload.wikimedia.org	TRUE	/	FALSE	1999999999	WMF-Last-Access	22-Jul-2022
+
